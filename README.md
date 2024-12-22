@@ -84,7 +84,7 @@ grep -c "User" example_log.txt
 
 ## Полезные источники:
 
-[Про grep]([https://www.gnu.org/software/grep/manual/](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#GREPREF))
+[Про grep](https://www.gnu.org/software/grep/manual/](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#GREPREF )
 
 [Linux man pages (grep)](https://man7.org/linux/man-pages/man1/grep.1.html)
 
