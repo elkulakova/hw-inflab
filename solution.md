@@ -61,3 +61,22 @@ grep "WARNING" logfile.txt -c
 <p align="center">
  <img width="600px" src="count.png" alt="qr"/>
 </p>
+
+6. Найти все строки, произошедшие в конкретный день или в конкретный месяц. Выберу 18 число и 12 месяц:
+
+```
+grep "18 " logfile.txt
+```
+Результат выполнения:
+<p align="center">
+ <img width="600px" src="day.png" alt="qr"/>
+</p>
+
+```
+grep "12-" logfile.txt
+```
+Результат выполнения:
+<p align="center">
+ <img width="600px" src="month.png" alt="qr"/>
+</p>
+
