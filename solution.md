@@ -48,4 +48,16 @@ grep "^WARNING" logfile.txt
 ```
 grep -E "192\.168\.[0-9]{1,3}\.[0-9]{1,3}" logfile.txt
 ```
-Результат:
+Результат выполнения:
+<p align="center">
+ <img width="600px" src="ip.png" alt="qr"/>
+</p>
+
+5. Подсчет количества строк с предупреждениями (слово "WARNING" именно в таком регистре). Использую флаг -c для подсчета строк:
+```
+grep "WARNING" logfile.txt -c
+```
+Результат выполнения:
+<p align="center">
+ <img width="600px" src="count.png" alt="qr"/>
+</p>
