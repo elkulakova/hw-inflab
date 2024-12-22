@@ -66,10 +66,7 @@ grep -c "User" example_log.txt
 
 ## Полезные источники:
 
-Официальная документация grep (GNU)
-
-Linux man pages (grep)
-
-Tutorialspoint: grep command
-
-RegExr – сайт для тестирования регулярных выражений
+[Официальная документация grep (GNU)]([url](https://www.gnu.org/software/grep/manual/))
+[Linux man pages (grep)]([url](https://man7.org/linux/man-pages/man1/grep.1.html))
+[Tutorialspoint: grep command]([url](https://www.tutorialspoint.com/unix_commands/grep.htm))
+[RegExr – сайт для тестирования регулярных выражений]([url](https://regexr.com/))
